@@ -75,6 +75,7 @@ postgres://wukdsksghyaxel:b7bb9cf9f8095343aa9c560083f13870184ee174b29be0d68437e7
 
 Name : wukdsksghyaxel
 password : b7bb9cf9f8095343aa9c560083f13870184ee174b29be0d68437e77551d77c86
+Port:5432
 Host : ec2-52-87-123-108.compute-1.amazonaws.com
 Database : d358o0lk32408p
 ```
